@@ -122,7 +122,7 @@ body,button,input,select,textarea { font-family: Raleway, sans-serif; }
 
 <div class="alert alert-warning"><i class="fa fa-info-circle mr5"></i>If the video does not work, please try to stream it with another Server from the links table.</div>
 
-<div class="p2p2">
+
 <iframe>  <div class="iframe-container">
   <div id="player"></div>
 </div>
