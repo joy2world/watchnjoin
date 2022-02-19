@@ -142,23 +142,11 @@ body,button,input,select,textarea { font-family: Raleway, sans-serif; }
       width: '100%',
       videoId: 'YOgtEDP5mlE',
       playerVars: { 'autoplay': 1, 'playsinline': 1, 'rel': 0, 'loop': 1, 'autopause': 0 },
-      events: {
-        'onReady': onPlayerReady,
-'onStateChange':onPlayerStateChange
-      }
-    });
-  }
-
-  // 4. The API will call this function when the video player is ready.
-  function onPlayerReady(event) {
+      function onPlayerReady(event) {
    event.target.mute();
     event.target.playVideo();
   }
-  function onPlayerStateChange(event) {
-    if (event.data == YT.PlayerState.ENDED) {
-      player.seekTo(0);
-      player.playVideo();
-    }
+    });
   }
 </script></iframe>
 
