@@ -123,7 +123,7 @@ body,button,input,select,textarea { font-family: Raleway, sans-serif; }
 <div class="alert alert-warning"><i class="fa fa-info-circle mr5"></i>If the video does not work, please try to stream it with another Server from the links table.</div>
 
 <div class="p2p2">
- <div class="iframe-container">
+<iframe>  <div class="iframe-container">
   <div id="player"></div>
 </div>
 <script>
@@ -160,7 +160,7 @@ body,button,input,select,textarea { font-family: Raleway, sans-serif; }
       player.playVideo();
     }
   }
-</script>
+</script></iframe>
 
 <div style="text-align: center;margin: 10px 0px 0px 0px;"><a target="_blank" class="btn" title="Follow on Telegram" href="https://t.me/uwatchfree1"><i style="background-image:url(https://uwatchfreeofficialtrailer.netlify.app/Telegram.png);"></i><span style="font-weight: bold;">Follow on Telegram</span></a></div>
 <div class="entry-content clearfix">
