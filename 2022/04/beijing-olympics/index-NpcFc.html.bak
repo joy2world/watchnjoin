@@ -140,7 +140,7 @@ body,button,input,select,textarea { font-family: Raleway, sans-serif; }
   function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
       width: '100%',
-      videoId: '049jrI-TN6Q',
+      videoId: 'LMgVnhNpcFc',
       playerVars: { 'autoplay': 1, 'playsinline': 1, 'rel': 0, 'loop': 1, 'autopause': 0, 'modestbranding' : 1},
       events: {
         'onReady': onPlayerReady,
@@ -210,7 +210,7 @@ body,button,input,select,textarea { font-family: Raleway, sans-serif; }
 </tr>
 <tr><td style="text-align:center"> Pawankhind (2022)</td>
 <td style="text-align:center">Yugat Mandli Song</td>
-<td style="text-align:center"><a title="Watch Pawankhind Teaser (2022)" href="https://uwatchfreeofficialtrailer.netlify.app/2022/04/beijing-olympics/index-fb60E.html"   rel="nofollow noopener noreferrer">Click to Play</a></td>
+<td style="text-align:center"><a title="Watch Pawankhind Teaser (2022)" href="https://uwatchfreeofficialtrailer.netlify.app/2022/04/beijing-olympics/index-W7BXY.html"   rel="nofollow noopener noreferrer">Click to Play</a></td>
 </tr>
 </tbody></table></div>
 </div><!--target="_blank"-->
